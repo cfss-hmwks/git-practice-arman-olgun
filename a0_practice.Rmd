@@ -1,10 +1,10 @@
 ---
-title: "a0_practice"
+title: "a0_practice-Arman Olgun"
 author: "Jean Clipperton"
-date: "`r Sys.Date()`"
+date: "today!!"
 output: 
   html_document:
-    theme: spacelab
+    theme: cosmo
 ---
 
 ```{r setup, include=FALSE}
